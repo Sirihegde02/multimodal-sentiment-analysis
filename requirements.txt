@@ -11,10 +11,10 @@ pydot
 scikit-learn
 scipy
 seaborn
-tensorflow==2.10.1
+tensorflow>=2.16.0
 torchaudio
 torchdata
 pillow
-torchvision==0.14.1
+torchvision>=0.20.0
 torchviz==0.0.2
 
